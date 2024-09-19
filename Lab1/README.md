@@ -39,37 +39,19 @@ print("Hello, World!")
 
 
 ## Задание 2
-### 
-
+### Написать программу Hello World на C# с запуском на Unity. 
+- Необходимо создать проект в Unity
 
 ```cs
-
+    void Start()
+    {
+        Debug.Log("Hello, World!");
+    }
 ```
 
 ## Задание 3
-### 
-
-```py
-
-import ScriptEnv
-ScriptEnv.Initialize("Ansoft.ElectronicsDesktop")
-oDesktop.RestoreWindow()
-oProject = oDesktop.NewProject()
-oProject.Rename("C:/Users/denisov.dv/Documents/Ansoft/SphereDIffraction.aedt", True)
-oProject.InsertDesign("HFSS", "HFSSDesign1", "HFSS Terminal Network", "")
-oDesign = oProject.SetActiveDesign("HFSSDesign1")
-oEditor = oDesign.SetActiveEditor("3D Modeler")
-oEditor.CreateSphere(
-	[
-		"NAME:SphereParameters",
-		"XCenter:="		, "0mm",
-		"YCenter:="		, "0mm",
-		"ZCenter:="		, "0mm",
-		"Radius:="		, "1.0770329614269mm"
-	], 
-)
-
-```
+### Оформить отчет в виде документации на github (markdown-разметка).
+- Открываем гитхаб и пишем отчёт о проделанной работе :)
 
 ## Выводы
 
