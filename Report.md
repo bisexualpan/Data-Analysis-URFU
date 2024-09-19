@@ -6,9 +6,9 @@
 
 | Задание | Выполнение | Баллы |
 | ------ | ------ | ------ |
-| Задание 1 | * | 60 |
-| Задание 2 | * | 20 |
-| Задание 3 | * | 20 |
+| Задание 1 | * |  |
+| Задание 2 | * |  |
+| Задание 3 | * |  |
 
 знак "*" - задание выполнено; знак "#" - задание не выполнено;
 
@@ -48,13 +48,14 @@
 ```py
 print("Hello, World!")
 ```
+![image](https://github.com/user-attachments/assets/379cdb65-b886-48e4-abc9-811358bf96f1)
 
 
 ## Задание 2
-### 
+### Написать программу Hello World на C# с запуском на Unity. 
 
-- Перечисленные в этом туториале действия могут быть выполнены запуском на исполнение скрипт-файла, доступного [в репозитории](https://github.com/Den1sovDm1triy/hfss-scripting/blob/main/ScreatingSphereInAEDT.py).
-- Для запуска скрипт-файла откройте Ansys Electronics Desktop. Перейдите во вкладку [Automation] - [Run Script] - [Выберите файл с именем ScreatingSphereInAEDT.py из репозитория].
+![image](https://github.com/user-attachments/assets/34787200-e02f-41c1-af62-5cbe389edc94)
+
 
 ```py
 
