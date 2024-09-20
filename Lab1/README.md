@@ -51,6 +51,7 @@ print("Hello, World!")
 - Добавить компоненты скрипт к объекту GameObject
 ![image](https://github.com/user-attachments/assets/a3dd13fc-903d-44ee-88c7-6faf9b00e733)
 - Сделать билд проекта через File > Build Settings > Build по завершению запустить через кнопку Play в редакторе
+
 ![image](https://github.com/user-attachments/assets/3e698947-8445-43ca-bceb-76906e943f66)
 
 
