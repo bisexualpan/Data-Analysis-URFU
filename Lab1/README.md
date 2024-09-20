@@ -57,20 +57,12 @@ print("Hello, World!")
 
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
-- Открываем гитхаб и пишем отчёт о проделанной работе :)
+- Открыть гитхаб и написать отчёт о проделанной работе в своём репозитории :)
 
 ## Выводы
 
-Абзац умных слов о том, что было сделано и что было узнано.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+- Было написано две программы одного толка (Hello World) с запуском в Jupyter Notebook и в Unity. 
+- Кроме этого я узнал как делать markdown-разметку в github, узнал что такое Jupyter Notebook и как работать со скриптами в Unity.
 
 ## Powered by
 
